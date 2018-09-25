@@ -1,7 +1,7 @@
 <html>
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
-    <title>Hollingsworth Email</title>
+    <title>Email</title>
     <meta content="width=device-width,
     initial-scale=1.0" name="viewport" />
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
@@ -62,7 +62,7 @@
                       </div>
                     </div>
                   </div>
-                  <a href="https://www.hollingsworthllc.com/" class="inf-track-166"><img alt="email image" height="1000" src="https://www.hollingsworthllc.com/wp-content/uploads/2018/07/email-image-template.jpg" style="display: block;" width="600" /></a>
+                  <a href="#" class="inf-track-166"><img alt="email image" height="1000" src="#" style="display: block;" width="600" /></a>
                 </td>
               </tr>
               <tr>
@@ -95,7 +95,7 @@
               <tr>
                 <td class="footer" style="padding: 60px 0 15px 0;
                 background-image:
-                url('https://d1yoaun8syyxxt.cloudfront.net/gm420-6672d6d0-1131-4209-a7e8-8f517442916e-v2'); background-repeat: no-repeat; background-position: center; background-size:
+                url('#'); background-repeat: no-repeat; background-position: center; background-size:
                 cover; width: 1366px; height: 80px; color: #999;
                 font-family: 'Roboto',
                 sans-serif; font-size: 10px;">
@@ -104,22 +104,22 @@
                     <tbody>
                       <tr>
                         <td valign="bottom" width="30">
-                          <a class="inf-track-no" href="https://www.hollingsworthllc.com"> <img alt="footer
-                            Hollingsworth logo" src="https://d1yoaun8syyxxt.cloudfront.net/gm420-e782914f-34e8-4859-8b94-f97a306a2903-v2" style="display: block;" width="150" /></a>
+                          <a class="inf-track-no" href="#"> <img alt="footer
+                            logo" src="#" style="display: block;" width="150" /></a>
                         </td><td valign="bottom" width="5">
-                        <a class="inf-track-no" href="https://www.facebook.com/HollingsworthLLC/"><img alt="facebook icon" src="https://d1yoaun8syyxxt.cloudfront.net/gm420-47a9c073-01ed-4d68-965b-81fa1259a933-v2" style="display: block;" width="10" /></a>
+                        <a class="inf-track-no" href="h#"><img alt="facebook icon" src="#" style="display: block;" width="10" /></a>
                         </td><td valign="bottom" width="10">
-                        <a class="inf-track-no" href="https://www.facebook.com/HollingsworthLLC/" style="text-decoration: none;
+                        <a class="inf-track-no" href="#" style="text-decoration: none;
                         color: #999;">Facebook</a>
                         </td><td valign="bottom" width="5">
-                        <a class="inf-track-no" href="https://twitter.com/HLGSWRTH"><img alt="twitter icon" src="https://d1yoaun8syyxxt.cloudfront.net/gm420-a6a79e0a-45db-4a8f-9b1b-fbcfe752f7f0-v2" style="display: block;" width="15" /></a>
+                        <a class="inf-track-no" href="#"><img alt="twitter icon" src="#" style="display: block;" width="15" /></a>
                         </td><td valign="bottom" width="10">
-                        <a class="inf-track-no" href="https://twitter.com/HLGSWRTH" style="text-decoration: none; color:
+                        <a class="inf-track-no" href="#" style="text-decoration: none; color:
                         #999;">Twitter</a>
                         </td><td valign="bottom" width="5">
-                        <a class="inf-track-no" href="https://www.linkedin.com/company/hollingsworth-logistics"><img alt="linkedin icon" src="https://d1yoaun8syyxxt.cloudfront.net/gm420-b470feed-3f8b-435f-b8c8-a2ed6038b944-v2" style="display: block;" width="20" /></a>
+                        <a class="inf-track-no" href="#"><img alt="linkedin icon" src="#" style="display: block;" width="20" /></a>
                         </td><td valign="bottom" width="10">
-                        <a class="inf-track-no" href="https://www.linkedin.com/company/hollingsworth-logistics" style="text-decoration: none; color: #999;">LinkedIn</a>
+                        <a class="inf-track-no" href="h#" style="text-decoration: none; color: #999;">LinkedIn</a>
                         </td>
                         </tr>
                         </tbody>
